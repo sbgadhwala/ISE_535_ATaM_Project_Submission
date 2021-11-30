@@ -1,0 +1,69 @@
+Timestamp,Component,Observed Value,Threshold,Action
+,,,,
+42:45.1,RAM,40.3,40,ATaM killed matlab
+,,,,
+46:39.8,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:40.0,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:40.3,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:40.6,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:41.1,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:41.4,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:41.5,RAM,41.5,38,ATaM killed firefox
+,,,,
+46:41.6,RAM,41.5,38,ATaM killed firefox
+,,,,
+29:20.3,RAM,45.2,45,ATaM killed matlab
+,,,,
+31:01.0,RAM,45.1,45,ATaM killed matlab
+,,,,
+40:12.4,RAM,50.3,50,ATaM killed matlab
+,,,,
+42:32.4,RAM,52.7,52,ATaM killed matlab
+,,,,
+45:09.0,RAM,52.1,52,"ATaM killed code, matlab"
+,,,,
+26:17.5,CPU,100,50,ATaM killed matlab
+,,,,
+35:11.0,Disk,91.5111616,85,ATaM deleteed C:\Users\sbgadhwa\Dummy Folder
+,,,,
+40:46.2,CPU,100,60,ATaM restarted matlab
+,,,,
+40:12.4,RAM,50.3,50,ATaM killed matlab
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+42:32.4,RAM,52.7,52,ATaM killed matlab
+45:09.0,RAM,52.1,52,"ATaM killed code, matlab"
+26:17.5,CPU,100,50,ATaM killed matlab
+35:11.0,Disk,91.5111616,85,ATaM deleteed C:\Users\sbgadhwa\Dummy Folder
+40:46.2,CPU,100,60,ATaM restarted matlab
+2021-11-29 22:34:36.311480,RAM,52.8,52,ATaM killed code
+2021-11-29 22:36:43.098809,Disk,92.28742127276385,90,ATaM deleteed C:\Users\sbgadhwa\dist
+2021-11-29 22:39:02.729480,CPU,74.5,35,ATaM killed firefox
+2021-11-29 22:39:02.729480,CPU,39.3,35,ATaM killed firefox
+2021-11-29 22:39:03.433401,CPU,54.3,35,ATaM killed firefox
+2021-11-29 23:47:40.872006,Disk,91.96099231724877,90,ATaM deleteed C:\Users\sbgadhwa\Demo Folder
+2021-11-30 09:40:55.148198,RAM,51.1,51,ATaM killed code
+2021-11-30 09:40:55.998771,RAM,51.1,51,ATaM killed code
+2021-11-30 09:40:56.325369,RAM,51.1,51,ATaM killed code
+2021-11-30 09:40:56.973741,RAM,51.1,51,ATaM killed code
+2021-11-30 09:40:56.973741,RAM,51.4,51,ATaM killed code
+2021-11-30 09:40:57.197355,RAM,51.7,51,ATaM killed code
+2021-11-30 09:42:19.844211,RAM,63.3,60,ATaM killed matlab
+2021-11-30 09:42:20.387485,RAM,63.3,60,ATaM killed matlab
+2021-11-30 09:42:43.458709,RAM,65.0,60,ATaM killed matlab
+2021-11-30 09:53:24.312009,CPU,100.0,50,ATaM killed simio
+2021-11-30 09:53:24.614040,CPU,68.0,50,ATaM killed simio
+2021-11-30 09:54:35.327071,CPU,50.0,40,ATaM killed rsession
+2021-11-30 10:02:11.403762,RAM,51.2,49,ATaM killed FusionLauncher
+2021-11-30 10:04:57.264842,Disk,91.71625729091859,87,ATaM deleteed C:\Users\sbgadhwa\Temp Folder
+2021-11-30 17:29:50.214533,RAM,40.1,40,ATaM killed matlab
+2021-11-30 17:39:57.170772,RAM,45.1,45,ATaM killed matlab
