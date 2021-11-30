@@ -6,3 +6,4 @@ The ATaM_UI.py file has the code for the UI shwon in the video which is coded wi
 
 (For refernece) - the ATaM_Actions_Data is also attached which has all the details of actions taken by ATaM.
 Note - One will only require the two files to run the project, the .csv file will be created automatically once the project is running.
+Attaching the video for the demo of the app as well (ISE_535_Shyam_Gadhwala_Project_Submission_ATaM.mp4)
